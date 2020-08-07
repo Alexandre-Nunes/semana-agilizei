@@ -1,0 +1,16 @@
+#Fependências
+node_modules
+
+# Relatórios mocha
+mochawesome-report
+
+#Relatórios cucumber
+cypress/reports/index.html
+cypress/reports/index.html.json
+cypress/reports/cucumber-json/**
+
+#Vídeos
+cypress/videos
+
+#Outros
+.DS_Store
