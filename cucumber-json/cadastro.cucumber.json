@@ -1,6 +1,6 @@
 [
   {
-    "description": "    Como usuário, desejo realizar um Cadastro\n    Para que possa acessar o sistema.",
+    "description": "    Como usuário do site, desejo realizar um Cadastro\n    Para que possa acessar o sistema.",
     "keyword": "Feature",
     "name": "Cadastro",
     "line": 1,
@@ -11,7 +11,7 @@
       {
         "id": "cadastro;cadastro-de-novo-usuário",
         "keyword": "Scenario",
-        "line": 7,
+        "line": 5,
         "name": "Cadastro de novo usuário",
         "tags": [],
         "type": "scenario",
@@ -19,41 +19,41 @@
           {
             "arguments": [],
             "keyword": "Given ",
-            "line": 8,
+            "line": 6,
             "name": "que acesso o site",
             "result": {
               "status": "passed",
-              "duration": 10197000000
+              "duration": 10940000000
             }
           },
           {
             "arguments": [],
             "keyword": "When ",
-            "line": 9,
+            "line": 7,
             "name": "informar meus dados",
             "result": {
               "status": "passed",
-              "duration": 5006000000
+              "duration": 4840000000
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
-            "line": 10,
+            "line": 8,
             "name": "salvar",
             "result": {
               "status": "passed",
-              "duration": 159000000
+              "duration": 313000000
             }
           },
           {
             "arguments": [],
             "keyword": "Then ",
-            "line": 11,
+            "line": 9,
             "name": "devo ser cadastrado com sucesso",
             "result": {
               "status": "passed",
-              "duration": 7321000000
+              "duration": 8681000000
             }
           }
         ]
